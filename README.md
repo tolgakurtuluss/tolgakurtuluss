@@ -4,6 +4,6 @@ I am working at Turkish Airlines as a Revenue Management Specialist. I am intere
 
 ## Get in touch
 - Personal Website: [https://tolgakurtuluss.github.io/](https://tolgakurtuluss.github.io/)
-- Mail: [Contact via mail](mailto:tolgakurtulus95@gmail.com)
+- [![Gmail](https://img.shields.io/badge/-gmail-red?style=flat-square)](mailto:tolgakurtulus95@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/tolgakurtulus)
-- [![Twitter](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/itsinnng)
+- [![Twitter](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/tolgaakurtuluss)
