@@ -1,6 +1,6 @@
 # hellogithub
 
-I am working at Turkish Airlines as a Revenue Management Specialist. I am interested in Statistical Data Analysis, Revenue Management and Data Science. Currently, I am MSc. Statistics student at Yildiz Technical University and got my BSc. Statistics degree from Orta Doğu Teknik Üniversitesi / Middle East Technical University.
+I am working at Turkish Airlines as a Revenue Management Specialist. Highly interested in Statistical Data Analysis, Revenue Management and Data Science. Currently trying to get my MSc. Statistics degree at Yildiz Technical University and got my BSc. Statistics degree from Orta Doğu Teknik Üniversitesi / Middle East Technical University.
 
 ## Get in touch
 - Personal Website: [https://tolgakurtuluss.github.io/](https://tolgakurtuluss.github.io/)
