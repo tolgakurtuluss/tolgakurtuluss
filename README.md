@@ -38,3 +38,5 @@ Here are a few examples of projects I've worked on recently:
 Feel free to reach out to me or connect with me on [LinkedIn](https://www.linkedin.com/in/tolgakurtulus/) 💼. I'd love to chat about data, statistics, machine learning, or anything else that interests you!
 
 ![Built with ChatGPT](https://img.shields.io/badge/Built%20with-ChatGPT-brightgreen)
+![Hugging Face Profile 🤗](https://img.shields.io/badge/-Hugging%20Face-2C2D72?style=flat-square&logo=huggingface&logoColor=white&link=https://huggingface.co/tkurtulus)
+![Tolga's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgakurtuluss&show_icons=true&theme=radical)
