@@ -1,27 +1,27 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm Tolga, a passionate data analyst with a strong background in statistics and a knack for turning data into actionable insights. Let's dive into what I bring to the table:
+Hello! I'm Tolga, a dedicated data analyst with a robust statistical background, passionate about transforming data into actionable insights. Let's explore my skill set:
 
 ## 🚀 Skills
 
-* **R 📊**
-* **Python 🐍**
-* **SQL 🗃️**
-* **Statistical Modeling 📈**
-* **Data Visualization 📊📈**
-* **Machine Learning 🤖**
-* **Deep Learning 🧠**
-* **Reinforcement Learning 🎮🧠**
-* **Natural Language Processing (NLP) 📜💬🤖**
-* **Large Language Models (LLM) 📚🔤🤯**
-* **Generative Artificial Intelligence Models 🖌️🧠🤖**
+- **R 📊**
+- **Python 🐍**
+- **SQL 🗃️**
+- **Statistical Modeling 📈**
+- **Data Visualization 📊📈**
+- **Machine Learning 🤖**
+- **Deep Learning 🧠**
+- **Reinforcement Learning 🎮🧠**
+- **Natural Language Processing (NLP) 📜💬🤖**
+- **Large Language Models (LLM) 📚🔤🤯**
+- **Generative Artificial Intelligence Models 🖌️🧠🤖**
 
 ## 🌱 About Me
 
-I hold a Master's degree in Statistics and thrive on leveraging my expertise in R, Python, and SQL to extract meaningful insights from data. My journey includes experience in machine learning, deep learning, and reinforcement learning.
+I hold a Master's degree in Statistics and thrive on applying my expertise in R, Python, and SQL to derive meaningful insights from data. My journey includes hands-on experience in machine learning, deep learning, and reinforcement learning.
 
 ## 🌐 Want to contact?
 
-Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/tolgakurtulus/) 💼. Let's chat about data, statistics, machine learning, or anything else that sparks your interest!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tolgakurtulus/) 💼. Let's discuss data, statistics, machine learning, or any other topic that piques your interest!
 
-Looking forward to connecting with fellow data enthusiasts and collaborating on exciting projects! 🚀
+Excited about connecting with fellow data enthusiasts and collaborating on intriguing projects! 🚀
