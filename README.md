@@ -1,27 +1,23 @@
-# 👋 Welcome to My GitHub Profile!
+## Hi 👋, I'm Tolga
 
-Hello! I'm Tolga, a dedicated data analyst with a robust statistical background, passionate about transforming data into actionable insights. Let's explore my skill set:
+### About me
+- 👋 Hi, I’m an AI Enthusiast and Experienced Data Analyst.
+- 👀 I’m interested in **LLM, Deep Learning, Machine Learning and NLP tasks.**
+- 🎓 BSc/MSc in Statistics
 
 ## 🚀 Skills
 
 - **R 📊**
 - **Python 🐍**
 - **SQL 🗃️**
-- **Statistical Modeling 📈**
-- **Data Visualization 📊📈**
 - **Machine Learning 🤖**
 - **Deep Learning 🧠**
-- **Reinforcement Learning 🎮🧠**
 - **Natural Language Processing (NLP) 📜💬🤖**
 - **Large Language Models (LLM) 📚🔤🤯**
 - **Generative Artificial Intelligence Models 🖌️🧠🤖**
 
-## 🌱 About Me
-
-I hold a Master's degree in Statistics and thrive on applying my expertise in R, Python, and SQL to derive meaningful insights from data. My journey includes hands-on experience in machine learning, deep learning, and reinforcement learning.
-
-## 🌐 Want to contact?
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tolgakurtulus/) 💼. Let's discuss data, statistics, machine learning, or any other topic that piques your interest!
-
-Excited about connecting with fellow data enthusiasts and collaborating on intriguing projects! 🚀
+### Connect with Me:
+<p align="left">
+<a href="https://linkedin.com/in/tolgakurtulus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolgakurtulus" height="30" width="40" /></a>
+<a href="https://kaggle.com/tolgakurtulus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tolgakurtulus" height="30" width="40" /></a>
+</p>
