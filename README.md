@@ -2,19 +2,19 @@
 
 ### About me
 - 👋 Hi, I’m an AI Enthusiast and Experienced Data Analyst.
-- 👀 I’m interested in **LLM, Deep Learning, Machine Learning and NLP tasks.**
+- 👀 I’m interested in **LLM, Deep Learning, Machine Learning and NLP topics.**
+- ⭐ I'm experienced in **Python, R, JS languages** on **web app development, process automation and development tasks** 
 - 🎓 BSc/MSc in Statistics
 
-## 🚀 Skills
+## Current Projects
 
-- **R 📊**
-- **Python 🐍**
-- **SQL 🗃️**
-- **Machine Learning 🤖**
-- **Deep Learning 🧠**
-- **Natural Language Processing (NLP) 📜💬🤖**
-- **Large Language Models (LLM) 📚🔤🤯**
-- **Generative Artificial Intelligence Models 🖌️🧠🤖**
+- 🏃‍♂️ **[Treadmill Web Interface](https://github.com/tolgakurtuluss/relax_treadmill_interface)** - A Web Interface for the Relax Fit Treadmill using Python and BLE
+- 🌌 **[Chasing Aurora](https://tolgakurtuluss.github.io/aurora/)** -  Free and open source aurora chasing web application built on static site.
+- ✈️ **[aviation-hub](https://github.com/tolgakurtuluss/aviation-hub)** - Aviation dataset and interactive dashboard with worldwide airport coverage. 
+- 🖼️ **[renameimage](https://github.com/tolgakurtuluss/renameimage)** - Python tool that renames image files based on their EXIF DateTimeOriginal data or file modification time.
+- 👨‍💻 **[py-troya-connect](https://github.com/tolgakurtuluss/py-troya-connect)** - Python framework for interacting with Attachmate Extra! X-treme based Troya terminal sessions.
+- 🦜️ **[langchain-text-chunker](https://github.com/tolgakurtuluss/langchain-text-chunker)** - Python tool for applying diverse LangChain text splitting methods.
+- 🐧 **[shinychatgpt](http://tolgakurtuluss.shinyapps.io/shinychatgpt)** - OpenAI Playground clone with Shiny framework is built using the R programming language.
 
 ### Connect with Me:
 <p align="left">
