@@ -8,7 +8,9 @@
 
 ## Current Projects
 
-- 🏃‍♂️ **[Treadmill Web Interface](https://github.com/tolgakurtuluss/relax_treadmill_interface)** - A Web Interface for the Relax Fit Treadmill using Python and BLE
+- ✈️ **[Revenue Management Simulator](https://github.com/tolgakurtuluss/rmsimulator)** - 3D interactive "Airline Revenue Management Simulator" website for educational purposes using Three.js.
+- 📺 **[mytv](https://github.com/tolgakurtuluss/mytv)** - Automates the process of consolidating multiple M3U sources, checking stream availability and ensuring HLS streams are functional.
+- 🏃‍♂️ **[Treadmill Web Interface](https://github.com/tolgakurtuluss/relax_treadmill_interface)** - A Web Interface for the Relax Fit Treadmill using Python and BLE.
 - 🌌 **[Chasing Aurora](https://tolgakurtuluss.github.io/aurora/)** -  Free and open source aurora chasing web application built on static site.
 - ✈️ **[aviation-hub](https://github.com/tolgakurtuluss/aviation-hub)** - Aviation dataset and interactive dashboard with worldwide airport coverage. 
 - 🖼️ **[renameimage](https://github.com/tolgakurtuluss/renameimage)** - Python tool that renames image files based on their EXIF DateTimeOriginal data or file modification time.
