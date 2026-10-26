@@ -8,6 +8,7 @@
 
 ## Current Projects
 
+- 😎 **[awesome-webos](https://github.com/tolgakurtuluss/awesome-webos)** - A curated list of apps, launchers, homebrew repositories, rooting tools, guides, and resources for webOS TVs.
 - 📟 **[py-extra-terminal](https://github.com/tolgakurtuluss/py-extra-terminal)** - Python framework for interacting with Attachmate Extra! X-treme based terminal sessions.
 - ✈️ **[Revenue Management Simulator](https://github.com/tolgakurtuluss/rmsimulator)** - 3D interactive "Airline Revenue Management Simulator" website for educational purposes using Three.js.
 - 📺 **[mytv](https://github.com/tolgakurtuluss/mytv)** - Automates the process of consolidating multiple M3U sources, checking stream availability and ensuring HLS streams are functional.
